@@ -1,0 +1,624 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1\u2002Features",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                671.5999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "2\u2002Applications",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                671.5999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "3\u2002Description",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                560.5,
+                0.0
+            ]
+        },
+        {
+            "title": "Table of Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4\u2002Revision History",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                424.29998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "5\u2002Pin Configuration and Functions",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6\u2002Specifications",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 13,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.1\u2002Absolute Maximum Ratings",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                696.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "6.2\u2002ESD Ratings",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                469.79998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "6.3\u2002Recommended Operating Conditions",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                381.70001220703125,
+                0.0
+            ]
+        },
+        {
+            "title": "6.4\u2002Thermal Information",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                570.2999877929688,
+                0.0
+            ]
+        },
+        {
+            "title": "6.5\u2002Electrical Characteristics, TA = 25\u00b0C",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                458.8999938964844,
+                0.0
+            ]
+        },
+        {
+            "title": "6.6\u2002Electrical Characteristics, TA = \u201340\u00b0C to +85\u00b0C",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.7\u2002Timing Requirements",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.8\u2002Switching Characteristics, CL = 5 pF",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.9\u2002Switching Characteristics, CL = 10 pF",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 8,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.10\u2002Switching Characteristics, CL = 15 pF",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.11\u2002Switching Characteristics, CL = 30 pF",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.12\u2002Operating Characteristics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.13\u2002Typical Characteristics",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                586.5,
+                0.0
+            ]
+        },
+        {
+            "title": "7\u2002Parameter Measurement Information\u00a0",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7.1\u2002Propagation Delays, Setup and Hold Times, and Pulse Width)",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                696.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "7.2\u2002Enable and Disable Times",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "8\u2002Detailed Description",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "8.1\u2002Overview",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                693.0,
+                0.0
+            ]
+        },
+        {
+            "title": "8.2\u2002Functional Block Diagram",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                536.5,
+                0.0
+            ]
+        },
+        {
+            "title": "8.3\u2002Feature Description",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                330.6000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "8.4\u2002Device Functional Modes",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                245.6999969482422,
+                0.0
+            ]
+        },
+        {
+            "title": "9\u2002Application and Implementation",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "9.1\u2002Application Information",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                617.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "9.2\u2002Typical Power Button Circuit",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                477.5,
+                0.0
+            ]
+        },
+        {
+            "title": "9.2.1\u2002Design Requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                261.5,
+                0.0
+            ]
+        },
+        {
+            "title": "9.2.2\u2002Detailed Design Procedure",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                189.6999969482422,
+                0.0
+            ]
+        },
+        {
+            "title": "9.2.3\u2002Application Curve",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                701.0,
+                0.0
+            ]
+        },
+        {
+            "title": "10\u2002Power Supply Recommendations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                537.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "11\u2002Layout",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                415.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "11.1\u2002Layout Guidelines",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                388.1000061035156,
+                0.0
+            ]
+        },
+        {
+            "title": "11.2\u2002Layout Example",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                271.29998779296875,
+                0.0
+            ]
+        },
+        {
+            "title": "12\u2002Device and Documentation Support",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                720.0,
+                0.0
+            ]
+        },
+        {
+            "title": "12.1\u2002Documentation Support",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                693.0,
+                0.0
+            ]
+        },
+        {
+            "title": "12.1.1\u2002Related Documentation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                670.0999755859375,
+                0.0
+            ]
+        },
+        {
+            "title": "12.2\u2002Community Resources",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                617.9000244140625,
+                0.0
+            ]
+        },
+        {
+            "title": "12.3\u2002Trademarks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                491.0,
+                0.0
+            ]
+        },
+        {
+            "title": "12.4\u2002Electrostatic Discharge Caution",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                448.5,
+                0.0
+            ]
+        },
+        {
+            "title": "12.5\u2002Glossary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                393.0,
+                0.0
+            ]
+        },
+        {
+            "title": "13\u2002Mechanical, Packaging, and Orderable Information",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                0.0,
+                333.8999938964844,
+                0.0
+            ]
+        }
+    ],
+    "pages": 3,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 24,
+        "code": 1,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

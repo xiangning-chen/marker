@@ -1,0 +1,286 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1. General description",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                680.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "2. Features and benefits",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                588.1549682617188,
+                0.0
+            ]
+        },
+        {
+            "title": "3. Applications",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                354.55499267578125,
+                0.0
+            ]
+        },
+        {
+            "title": "4. Ordering information",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                755.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "5. Marking",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                599.5549926757812,
+                0.0
+            ]
+        },
+        {
+            "title": "6. Functional diagram",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 1,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                461.85498046875,
+                0.0
+            ]
+        },
+        {
+            "title": "7. Pinning information",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                755.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "7.1. Pinning",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                150.0,
+                714.8170166015625,
+                0.0
+            ]
+        },
+        {
+            "title": "7.2. Pin description",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                150.0,
+                534.7009887695312,
+                0.0
+            ]
+        },
+        {
+            "title": "8. Functional description",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                389.4389953613281,
+                0.0
+            ]
+        },
+        {
+            "title": "9. Limiting values",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                755.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "10. Recommended operating conditions",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                429.1549987792969,
+                0.0
+            ]
+        },
+        {
+            "title": "11. Static characteristics",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                755.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "12. Dynamic characteristics",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                641.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "12.1. Waveforms and test circuit",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                150.0,
+                754.3170166015625,
+                0.0
+            ]
+        },
+        {
+            "title": "13. Package outline",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 7,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                755.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "14. Abbreviations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                755.4550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "15. Revision history",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                605.9550170898438,
+                0.0
+            ]
+        },
+        {
+            "title": "16. Legal information",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                760.8889770507812,
+                0.0
+            ]
+        },
+        {
+            "title": "Contents",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                50.0,
+                760.8889770507812,
+                0.0
+            ]
+        }
+    ],
+    "pages": 3,
+    "ocr_stats": {
+        "ocr_pages": 0,
+        "ocr_failed": 0,
+        "ocr_success": 0,
+        "ocr_engine": "none"
+    },
+    "block_stats": {
+        "header_footer": 24,
+        "code": 0,
+        "table": 4,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

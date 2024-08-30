@@ -1,0 +1,351 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "Description",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                712.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Typical Applications",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                570.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Features",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                313.0,
+                712.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Block Diagram",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 0,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                433.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Pin Assignments \u2013 TSSOP Packages",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Pin Descriptions \u2013 TSSOP Packages",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 2,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                430.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Pin Assignments \u2013 DFN/VFQFPN Packages",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Pin Descriptions \u2013 DFN/VFQFPN Packages",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 3,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                381.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Output Logic Table",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Absolute Maximum Ratings",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                557.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Recommended Operating Conditions",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 4,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                259.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Thermal Characteristics",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 5,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "DC Electrical Characteristics",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 6,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "AC Electrical Characteristics",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Phase Noise Plots",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Test Load and Circuit",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Package Outline Drawings",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                604.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Marking Diagrams (Industrial)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                525.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Marking Diagrams (Extended)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Marking Diagrams (Automotive)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                286.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Ordering Information (Industrial)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Ordering Information (Extended)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Ordering Information (Automotive)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                276.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Ordering Information (Special Material Request)",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                733.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Revision History",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                35.0,
+                556.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 3,
+    "ocr_stats": {
+        "ocr_pages": 1,
+        "ocr_failed": 0,
+        "ocr_success": 1,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 6,
+        "code": 0,
+        "table": 2,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
